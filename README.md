@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# kodluyoruz ilk repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ![alt text](image.png)
@@ -26,5 +26,9 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ### License 
+<<<<<<< HEAD
 ```
 (https://choosealicense.com/licenses/mit/)```
+=======
+(https://choosealicense.com/licenses/mit/)
+>>>>>>> 443f58f94a174bed6eb5b89d1fa048789351f11c
